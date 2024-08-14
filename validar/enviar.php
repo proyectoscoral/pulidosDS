@@ -13,9 +13,9 @@ if ( !isset($_POST["nombre"]) || !isset($_POST["email"]) || !isset($_POST["mensa
 
 
 // Datos de la cuenta de correo utilizada para enviar vía SMTP
-$smtpHost = "smtp.gmail.com";  // Dominio alternativo brindado en el email de alta 
-$smtpUsuario = "proyectos@coralweb.com.ar";  // Mi cuenta de correo
-$smtpClave = "Violeta2013";  // Mi contraseña
+$smtpHost = "c2640683.ferozo.com";  // Dominio alternativo brindado en el email de alta 
+$smtpUsuario = "mail@pulidosdesimone.com.ar";  // Mi cuenta de correo
+$smtpClave = "rczZH@I5xF";  // Mi contraseña
 
 // Email donde se enviaran los datos cargados en el formulario de contacto
 $emailDestino = "pgfossa@coralweb.com.ar";

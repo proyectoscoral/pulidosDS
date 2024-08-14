@@ -1,6 +1,6 @@
 <?php
 // Ingresa tu clave secreta.....
-define("CLAVE", '6LcFAqogAAAAAOz4m7MCjTn_uIqJNMX35I-3Qwmu');
+define("CLAVE", '6LcQhxIqAAAAAHSv0jpCdWPC_hm-4ca8ZgYavTs6');
 
 $token = $_POST['token'];
 $action = $_POST['action'];
