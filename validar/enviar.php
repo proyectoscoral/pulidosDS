@@ -18,7 +18,7 @@ $smtpUsuario = "mail@pulidosdesimone.com.ar";  // Mi cuenta de correo
 $smtpClave = "rczZH@I5xF";  // Mi contraseña
 
 // Email donde se enviaran los datos cargados en el formulario de contacto
-$emailDestino = "pgfossa@coralweb.com.ar";
+$emailDestino = "mail@pulidosds.com";
 
 
 
